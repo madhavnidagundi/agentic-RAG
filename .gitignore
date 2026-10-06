@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.streamlit/secrets.toml
+.env
+.venv/
+venv/
+
+# Keep large source documents out of Git unless the repository intentionally distributes them.
+data/source_documents/*.pdf
